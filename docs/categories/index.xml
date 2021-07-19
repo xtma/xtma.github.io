@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Xiaoteng Ma</title>
+    <link>https://xtma.github.io/xiaotengma.github.io/categories/</link>
+    <description>Recent content in Categories on Xiaoteng Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://xtma.github.io/xiaotengma.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sintaxe</title>
+      <link>https://xtma.github.io/xiaotengma.github.io/categories/sintaxe/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtma.github.io/xiaotengma.github.io/categories/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://xtma.github.io/xiaotengma.github.io/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtma.github.io/xiaotengma.github.io/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>https://xtma.github.io/xiaotengma.github.io/categories/temas/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtma.github.io/xiaotengma.github.io/categories/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://xtma.github.io/xiaotengma.github.io/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtma.github.io/xiaotengma.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://xtma.github.io/xiaotengma.github.io/categories/development/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtma.github.io/xiaotengma.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
