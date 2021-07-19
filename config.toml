@@ -1,4 +1,4 @@
-baseURL = "https://xtma.github.io/xiaotengma.github.io/"
+baseURL = "https://xiaotengma.github.io/"
 title = "Xiaoteng Ma"
 theme = "hugo-coder"
 languageCode = "en"
