@@ -7,14 +7,29 @@ math = "true"
 My [Google Scholar](https://scholar.google.com/citations?user=CeDFnNMAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Xiaoteng-Ma-4) Page.
 
 ## Preprint
-- [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2106.03400.pdf). \
-Yiqin Yang\*, **Xiaoteng Ma**\*, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang and Qianchuan Zhao.
+- [A unified algorithm framework for mean-variance optimization in discounted Markov decision processes](https://arxiv.org/pdf/2201.05737.pdf).\
+Shuai Ma, **Xiaoteng Ma**, Li Xia.
 
 - [DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning](https://arxiv.org/pdf/2004.14547.pdf).\
 **Xiaoteng Ma**, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
 
 
 ## Conference Paper
+- [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/pdf/2110.09796.pdf). \
+**Xiaoteng Ma**\*, Yiqin Yang\*, Hao Hu\*, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, Bin Liang \
+International Conference on Learning Representations (**ICLR**), 2022.
+  
+
+- [Efficient Continuous Control with Double Actors and Regularized Critics](https://arxiv.org/pdf/2106.03050.pdf). \
+Jiafei Lyu\*, **Xiaoteng Ma**\*, Jiangpeng Yan, Xiu Li. \
+AAAI Conference on Artificial Intelligence, (**AAAI**), 2022. [Oral]
+
+- [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2106.03400.pdf).  \
+Yiqin Yang\*, **Xiaoteng Ma**\*, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang and Qianchuan Zhao. \
+Advances in Neural Information
+Processing Systems (**NeurIPS**), 2021. [Spotlight]
+
+
 - [Average-Reward Reinforcement Learning with Trust Region Methods](https://arxiv.org/pdf/2106.03442.pdf)\
 **Xiaoteng Ma**, Xiaohang Tang, Jun Yang, Li Xia, Qianchuan Zhao. \
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2021.
