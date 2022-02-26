@@ -149,11 +149,12 @@
       
       <guid>https://xtma.github.io/publication/</guid>
       <description>My Google Scholar and Research Gate Page.
-Preprint  Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning.
-Yiqin Yang*, Xiaoteng Ma*, Chenghao Li, Zewu Zheng, Qiyuan Zhang, Gao Huang, Jun Yang and Qianchuan Zhao.
+Preprint  A unified algorithm framework for mean-variance optimization in discounted Markov decision processes.
+Shuai Ma, Xiaoteng Ma, Li Xia.
   DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning.
 Xiaoteng Ma, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
-  Conference Paper  Average-Reward Reinforcement Learning with Trust Region Methods</description>
+  Conference Paper  Offline Reinforcement Learning with Value-based Episodic Memory.
+Xiaoteng Ma*, Yiqin Yang*, Hao Hu*, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, Bin Liang</description>
     </item>
     
   </channel>
