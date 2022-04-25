@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2021.10* Tsinghua Comprehensive Scholarship
 - *2015.10* Xi'an Jiaotong University Outstanding Student (Undergraduate) (Top 10)
 - *2015.10* National Scholarship (Undergraduate) (Top 1%)
