@@ -6,7 +6,7 @@
 
 
 # 📖 Educations
-- *2017.09 - now*, Ph.D, Department of Automation, Tsinghua University.
+- *2017.09 - now*, Ph.D., Department of Automation, Tsinghua University.
 - *2013.09 - 2017.06*, Bachelor, Department of Automation, Xi'an Jiaotong Univeristy.
 
 
