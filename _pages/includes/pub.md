@@ -5,6 +5,9 @@
 
 - [DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning](https://arxiv.org/pdf/2004.14547.pdf). **Xiaoteng Ma**, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
 
+- [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu, **Xiaoteng Ma**, Xiu Li, Zongqing Lu
+
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://arxiv.org/pdf/2206.02829.pdf). Rui Yang\*, Chenjia Bai\*, **Xiaoteng Ma**, Zhaoran Wang, Chongjie Zhang, Lei Han
 
 ## Conference Paper
 - [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/pdf/2110.09796.pdf). **Xiaoteng Ma**\*, Yiqin Yang\*, Hao Hu\*, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, Bin Liang. *International Conference on Learning Representations* (**ICLR**), 2022.
@@ -21,6 +24,8 @@ Processing Systems* (**NeurIPS**), 2021. <span style="color:red">(Spotlight)</sp
 - [Wasserstein Distance guided Adversarial Imitation Learning with Reward Shape Exploration](https://export.arxiv.org/pdf/2006.03503). Ming Zhang, Yawei Wang, **Xiaoteng Ma**, Li Xia, Jun Yang, Zhiheng Li and Xiu Li. *IEEE Data Driven Control and Learning Systems Conference* (**DDCLS**), 2020.
 
 - [Fairness Control of Traffic Light via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9216899). Chenghao Li, **Xiaoteng Ma**, Li Xia, Qianchuan Zhao and Jun Yang. *IEEE International Conference on Automation Science and Engineering* (**CASE**), 2020.
+
+- [Bi-level Proximal Policy optimization for Stochastic Coordination of EV Charging Load with Uncertain Wind Power](https://ieeexplore.ieee.org/abstract/document/8920632). Teng Long, *Xiaoteng Ma*, Qing-Shan Jia. *IEEE Conference on Control Technology and Applications* (**CCTA**), 2019.
 
 - [Air-combat strategy using deep Q-learning](https://ieeexplore.ieee.org/document/8623434). **Xiaoteng Ma**, Li Xia, Qianchuan Zhao. *Chinese Automation Congress* (**CAC**), 2018.
 
