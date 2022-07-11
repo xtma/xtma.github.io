@@ -25,14 +25,14 @@ Processing Systems* (**NeurIPS**), 2021. <span style="color:red">(Spotlight)</sp
 
 - [Fairness Control of Traffic Light via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9216899). Chenghao Li, **Xiaoteng Ma**, Li Xia, Qianchuan Zhao and Jun Yang. *IEEE International Conference on Automation Science and Engineering* (**CASE**), 2020.
 
-- [Bi-level Proximal Policy optimization for Stochastic Coordination of EV Charging Load with Uncertain Wind Power](https://ieeexplore.ieee.org/abstract/document/8920632). Teng Long, *Xiaoteng Ma*, Qing-Shan Jia. *IEEE Conference on Control Technology and Applications* (**CCTA**), 2019.
+- [Bi-level Proximal Policy optimization for Stochastic Coordination of EV Charging Load with Uncertain Wind Power](https://ieeexplore.ieee.org/abstract/document/8920632). Teng Long, **Xiaoteng Ma**, Qing-Shan Jia. *IEEE Conference on Control Technology and Applications* (**CCTA**), 2019.
 
 - [Air-combat strategy using deep Q-learning](https://ieeexplore.ieee.org/document/8623434). **Xiaoteng Ma**, Li Xia, Qianchuan Zhao. *Chinese Automation Congress* (**CAC**), 2018.
 
 ## Journal Paper
-- [Mean-Semivariance Policy Optimization via Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2206.07376). Xiaoteng Ma, Shuai Ma, Li Xia, Qianchuan Zhao. *Journal of Artificial Intelligence Research* (**JAIR**), 2022.
+- [Mean-Semivariance Policy Optimization via Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2206.07376). **Xiaoteng Ma**, Shuai Ma, Li Xia, Qianchuan Zhao. *Journal of Artificial Intelligence Research* (**JAIR**), 2022.
 
-- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://arxiv.org/abs/2110.03302). Kailai Sun\*, Xiaoteng Ma\*, Peng Liu\*, Qianchuan Zhao. *Building and Environment* (**BAE**), 2022.
+- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://arxiv.org/abs/2110.03302). Kailai Sun\*, **Xiaoteng Ma**\*, Peng Liu\*, Qianchuan Zhao. *Building and Environment* (**BAE**), 2022.
 
 - [Learning to Discover Task-Relevant Features for Interpretable Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9463791). Qiyuan Zhang, **Xiaoteng Ma**, Yiqin Yang, Chenghao Li, Jun Yang, Yu Liu and Bin Liang. *IEEE Robotics and Automation Letters* (**RA-L**), 2021.
 
