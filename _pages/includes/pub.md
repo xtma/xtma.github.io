@@ -5,11 +5,17 @@
 
 - [DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning](https://arxiv.org/pdf/2004.14547.pdf). **Xiaoteng Ma**, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
 
-- [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu, **Xiaoteng Ma**, Xiu Li, Zongqing Lu
-
-- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://arxiv.org/pdf/2206.02829.pdf). Rui Yang\*, Chenjia Bai\*, **Xiaoteng Ma**, Zhaoran Wang, Chongjie Zhang, Lei Han
 
 ## Conference Paper
+- [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
+Processing Systems* (**NeurIPS**), 2022.
+
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://arxiv.org/pdf/2206.02829.pdf). Rui Yang\*, Chenjia Bai\*, **Xiaoteng Ma**, Zhaoran Wang, Chongjie Zhang, Lei Han. *Advances in Neural Information
+Processing Systems* (**NeurIPS**), 2022.
+
+- [Exploiting Reward Shifting in Value-Based Deep RL](https://arxiv.org/pdf/2209.07288.pdf). Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou. *Advances in Neural Information
+Processing Systems* (**NeurIPS**), 2022.
+
 - [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/pdf/2110.09796.pdf). **Xiaoteng Ma**\*, Yiqin Yang\*, Hao Hu\*, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, Bin Liang. *International Conference on Learning Representations* (**ICLR**), 2022.
 
 - [Efficient Continuous Control with Double Actors and Regularized Critics](https://arxiv.org/pdf/2106.03050.pdf). Jiafei Lyu\*, **Xiaoteng Ma**\*, Jiangpeng Yan, Xiu Li. *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2022. <span style="color:red">(Oral)</span>
@@ -29,7 +35,6 @@ Processing Systems* (**NeurIPS**), 2021. <span style="color:red">(Spotlight)</sp
 
 - [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). Kailai Sun, Qianchuan Zhao, Jianhong Zou, **Xiaoteng Ma**. *International Conference on Smart City and Intelligent Building* (**ICSCIB**), 2018.
 
-- [Air-combat strategy using deep Q-learning](https://ieeexplore.ieee.org/document/8623434). **Xiaoteng Ma**, Li Xia, Qianchuan Zhao. *Chinese Automation Congress* (**CAC**), 2018.
 
 ## Journal Paper
 - [Mean-Semivariance Policy Optimization via Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2206.07376). **Xiaoteng Ma**, Shuai Ma, Li Xia, Qianchuan Zhao. *Journal of Artificial Intelligence Research* (**JAIR**), 2022.
