@@ -5,6 +5,7 @@
 
 - [DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning](https://arxiv.org/pdf/2004.14547.pdf). **Xiaoteng Ma**, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
 
+- [Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation](https://arxiv.org/pdf/2209.06620.). **Xiaoteng Ma**\*, Zhipeng Liang\*, Jose Blanchet, Mingwen Liu, Li Xia, Jiheng Zhang, Qianchuan Zhao, Zhengyuan Zhou.
 
 ## Conference Paper
 - [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
