@@ -9,10 +9,10 @@
 
 ## Conference Paper
 - [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
-Processing Systems* (**NeurIPS**), 2022.
+Processing Systems* (**NeurIPS**), 2022. <span style="color:red">(Spotlight)</span>
 
 - [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://arxiv.org/abs/2206.02829). Rui Yang\*, Chenjia Bai\*, **Xiaoteng Ma**, Zhaoran Wang, Chongjie Zhang, Lei Han. *Advances in Neural Information
-Processing Systems* (**NeurIPS**), 2022.
+Processing Systems* (**NeurIPS**), 2022. <span style="color:red">(Spotlight)</span>
 
 - [Exploiting Reward Shifting in Value-Based Deep RL](https://arxiv.org/abs/2209.07288). Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou. *Advances in Neural Information
 Processing Systems* (**NeurIPS**), 2022.
