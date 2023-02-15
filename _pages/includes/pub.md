@@ -7,6 +7,8 @@
 
 - [Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2209.06620). **Xiaoteng Ma**\*, Zhipeng Liang\*, Jose Blanchet, Mingwen Liu, Li Xia, Jiheng Zhang, Qianchuan Zhao, Zhengyuan Zhou.
 
+- [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou.
+
 ## Conference Paper
 - [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
 Processing Systems* (**NeurIPS**), 2022. <span style="color:red">(Spotlight)</span>
