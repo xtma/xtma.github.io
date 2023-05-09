@@ -10,6 +10,8 @@
 - [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou.
 
 ## Conference Paper
+- [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) Rui Yang, Yong Lin, **Xiaoteng Ma**, Hao Hu, Chongjie Zhang, Tong Zhang. *International Conference on Machine Learning* (**ICML**), 2023.
+
 - [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
 Processing Systems* (**NeurIPS**), 2022. <span style="color:red">(Spotlight)</span>
 
