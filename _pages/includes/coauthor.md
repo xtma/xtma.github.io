@@ -6,3 +6,4 @@
 - [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) - Assistant Professor, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
 - [Zhipeng Liang](https://liangzp.github.io/) - Ph.D. Student, Department of Industrial Engineering and Decision Analytics (IEDA), Hong Kong University of Science and Technology.
 - [Rui Yang](https://yangrui2015.github.io/) - Ph.D. Student, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology.
+- [Jiafei Lyu](https://dmksjfl.github.io/) - Ph.D. Student, Tsinghua Shenzhen International Graduate School, Tsinghua University.
