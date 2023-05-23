@@ -30,7 +30,7 @@ Processing Systems* (**NeurIPS**), 2021. <span style="color:red">(Spotlight)</sp
 
 - [Average-Reward Reinforcement Learning with Trust Region Methods](https://arxiv.org/abs/2106.03442). **Xiaoteng Ma**, Xiaohang Tang, Jun Yang, Li Xia, Qianchuan Zhao. *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2021.
 
-- [Modeling the Interaction between Agents in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2102.06042). **Xiaoteng Ma**\*, Yinqin Yang\*, Chenghao Li\*, Yiwen Lu, Qianchuan Zhao and Jun Yang. *International Conference on Autonomous Agents and MultiAgent Systems* (**AAMAS**), 2021.
+- [Modeling the Interaction between Agents in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2102.06042). **Xiaoteng Ma**\*, Yiqin Yang\*, Chenghao Li\*, Yiwen Lu, Qianchuan Zhao and Jun Yang. *International Conference on Autonomous Agents and MultiAgent Systems* (**AAMAS**), 2021.
 
 - [Wasserstein Distance guided Adversarial Imitation Learning with Reward Shape Exploration](https://arxiv.org/abs/2006.03503). Ming Zhang, Yawei Wang, **Xiaoteng Ma**, Li Xia, Jun Yang, Zhiheng Li and Xiu Li. *IEEE Data Driven Control and Learning Systems Conference* (**DDCLS**), 2020.
 
