@@ -1,13 +1,13 @@
 # 📝 Publications 
 
 ## Preprint
-- [A unified algorithm framework for mean-variance optimization in discounted Markov decision processes](https://arxiv.org/abs/2201.05737). Shuai Ma, **Xiaoteng Ma**, Li Xia.
-
 - [DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning](https://arxiv.org/abs/2004.14547). **Xiaoteng Ma**, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
 
 - [Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2209.06620). **Xiaoteng Ma**\*, Zhipeng Liang\*, Jose Blanchet, Mingwen Liu, Li Xia, Jiheng Zhang, Qianchuan Zhao, Zhengyuan Zhou.
 
 - [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou.
+
+- [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://arxiv.org/abs/2305.17625). Kang Xu, Chenjia Bai, **Xiaoteng Ma**, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. 
 
 ## Conference Paper
 - [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) Rui Yang, Yong Lin, **Xiaoteng Ma**, Hao Hu, Chongjie Zhang, Tong Zhang. *International Conference on Machine Learning* (**ICML**), 2023.
@@ -42,6 +42,8 @@ Processing Systems* (**NeurIPS**), 2021. <span style="color:red">(Spotlight)</sp
 
 
 ## Journal Paper
+- [A unified algorithm framework for mean-variance optimization in discounted Markov decision processes](https://arxiv.org/abs/2201.05737). Shuai Ma, **Xiaoteng Ma**, Li Xia. *European Journal of Operational Research*(**EJOR**), 2023.
+
 - [Mean-Semivariance Policy Optimization via Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2206.07376). **Xiaoteng Ma**, Shuai Ma, Li Xia, Qianchuan Zhao. *Journal of Artificial Intelligence Research* (**JAIR**), 2022.
 
 - [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://arxiv.org/abs/2110.03302). Kailai Sun\*, **Xiaoteng Ma**\*, Peng Liu\*, Qianchuan Zhao. *Building and Environment* (**BAE**), 2022.
