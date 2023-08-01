@@ -10,6 +10,7 @@
 - [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://arxiv.org/abs/2305.17625). Kang Xu, Chenjia Bai, **Xiaoteng Ma**, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. 
 
 ## Conference Paper
+- [Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning](https://arxiv.org/abs/2304.04660). Junjie Zhang\*, Jiafei Lyu\*, **Xiaoteng Ma**, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence* (**ECAI**), 2023.
 - [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) Rui Yang, Yong Lin, **Xiaoteng Ma**, Hao Hu, Chongjie Zhang, Tong Zhang. *International Conference on Machine Learning* (**ICML**), 2023.
 
 - [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
