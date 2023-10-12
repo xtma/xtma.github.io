@@ -7,20 +7,18 @@
 
 - [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou.
 
-- [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://arxiv.org/abs/2305.17625). Kang Xu, Chenjia Bai, **Xiaoteng Ma**, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. 
-
 ## Conference Paper
+- [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://arxiv.org/abs/2305.17625). Kang Xu, Chenjia Bai, **Xiaoteng Ma**, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. 
+
 - [Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning](https://arxiv.org/abs/2304.04660). Junjie Zhang\*, Jiafei Lyu\*, **Xiaoteng Ma**, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence* (**ECAI**), 2023.
 - [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) Rui Yang, Yong Lin, **Xiaoteng Ma**, Hao Hu, Chongjie Zhang, Tong Zhang. *International Conference on Machine Learning* (**ICML**), 2023.
 
 - [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
 Processing Systems* (**NeurIPS**), 2022. <span style="color:red">(Spotlight)</span>
 
-- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://arxiv.org/abs/2206.02829). Rui Yang\*, Chenjia Bai\*, **Xiaoteng Ma**, Zhaoran Wang, Chongjie Zhang, Lei Han. *Advances in Neural Information
-Processing Systems* (**NeurIPS**), 2022. <span style="color:red">(Spotlight)</span>
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://arxiv.org/abs/2206.02829). Rui Yang\*, Chenjia Bai\*, **Xiaoteng Ma**, Zhaoran Wang, Chongjie Zhang, Lei Han. *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022. <span style="color:red">(Spotlight)</span>
 
-- [Exploiting Reward Shifting in Value-Based Deep RL](https://arxiv.org/abs/2209.07288). Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou. *Advances in Neural Information
-Processing Systems* (**NeurIPS**), 2022.
+- [Exploiting Reward Shifting in Value-Based Deep RL](https://arxiv.org/abs/2209.07288). Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou. *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022.
 
 - [Offline Reinforcement Learning with Value-based Episodic Memory](https://arxiv.org/abs/2110.09796). **Xiaoteng Ma**\*, Yiqin Yang\*, Hao Hu\*, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, Bin Liang. *International Conference on Learning Representations* (**ICLR**), 2022.
 
