@@ -1,13 +1,8 @@
 # 📝 Publications 
 
-## Preprint
-- [DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning](https://arxiv.org/abs/2004.14547). **Xiaoteng Ma**, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
-
-- [Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2209.06620). **Xiaoteng Ma**\*, Zhipeng Liang\*, Jose Blanchet, Mingwen Liu, Li Xia, Jiheng Zhang, Qianchuan Zhao, Zhengyuan Zhou.
-
-- [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou.
-
 ## Conference Paper
+- [Learning Diverse Risk Preferences In Population-based Self-play](https://arxiv.org/abs/2305.11476). Yuhua Jiang\*, Qihan Liu\*, **Xiaoteng Ma**, Chenghao Li, Yiqin Yang, Jun Yang, Bin Liang, Qianchuan Zhao. *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2024.
+
 - [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://arxiv.org/abs/2305.17625). Kang Xu, Chenjia Bai, **Xiaoteng Ma**, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. 
 
 - [Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning](https://arxiv.org/abs/2304.04660). Junjie Zhang\*, Jiafei Lyu\*, **Xiaoteng Ma**, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence* (**ECAI**), 2023.
@@ -52,3 +47,10 @@ Processing Systems* (**NeurIPS**), 2021. <span style="color:red">(Spotlight)</sp
 - [Learning to Discover Task-Relevant Features for Interpretable Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9463791). Qiyuan Zhang, **Xiaoteng Ma**, Yiqin Yang, Chenghao Li, Jun Yang, Yu Liu and Bin Liang. *IEEE Robotics and Automation Letters* (**RA-L**), 2021.
 
 - [Reinforcement learning for fluctuation reduction of wind power with energy storage](https://www.sciencedirect.com/science/article/pii/S2666720721000199). Zhen Yang, **Xiaoteng Ma**, Li Xia, Qianchuan Zhao and Xiaohong Guan. *Results in Control and Optimization* (**RICO**), 2021.
+
+## Preprint
+- [DSAC: Distributional Soft Actor Critic for Risk-Sensitive Reinforcement Learning](https://arxiv.org/abs/2004.14547). **Xiaoteng Ma**, Li Xia, Zhengyuan Zhou, Jun Yang and Qianchuan Zhao.
+
+- [Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2209.06620). **Xiaoteng Ma**\*, Zhipeng Liang\*, Jose Blanchet, Mingwen Liu, Li Xia, Jiheng Zhang, Qianchuan Zhao, Zhengyuan Zhou.
+
+- [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou.
