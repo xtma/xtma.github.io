@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoteng Ma (马骁腾)"
-description              : "Ph.D. student at Tsinghua University. Focusing on Reinforcement Learning. "
+description              : "PostDoc at Tsinghua University. Focusing on Reinforcement Learning. "
 repository               : "xtma/xtma.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CeDFnNMAAAAJ"
-  email            : "ma-xt17[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn"
+  email            : "pony[DOT]xtma[AT]gmail[DOT]com"
   researchgate     : "https://www.researchgate.net/profile/Xiaoteng-Ma-4"
   uri              :
   bitbucket        :

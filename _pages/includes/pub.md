@@ -1,7 +1,11 @@
 # 📝 Publications 
 
 ## Conference Paper
-- [Learning Diverse Risk Preferences In Population-based Self-play](https://arxiv.org/abs/2305.11476). Yuhua Jiang\*, Qihan Liu\*, **Xiaoteng Ma**, Chenghao Li, Yiqin Yang, Jun Yang, Bin Liang, Qianchuan Zhao. *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2024.
+- [Efficient Multi-agent Reinforcement Learning by Planning](https://openreview.net/forum?id=CpnKq3UJwp). Qihan Liu\*, Jianing Ye\*, **Xiaoteng Ma**\*, Jun Yang, Bin Liang, Chongjie Zhang. *International Conference on Learning Representations* (**ICLR**), 2024.
+
+- [SEABO: A Simple Search-Based Method for Offline Imitation Learning](https://openreview.net/forum?id=MNyOI3C7YB). Jiafei Lyu, **Xiaoteng Ma**, Le Wan, Runze Liu, Xiu Li, Zongqing Lu. *International Conference on Learning Representations* (**ICLR**), 2024.
+
+- [Learning Diverse Risk Preferences In Population-based Self-play](https://arxiv.org/abs/2305.11476). Yuhua Jiang\*, Qihan Liu\*, **Xiaoteng Ma**, Chenghao Li, Yiqin Yang, Jun Yang, Bin Liang, Qianchuan Zhao. *AAAI Conference on Artificial Intelligence*, (**AAAI**), 2024. <span style="color:red">(Oral)</span>
 
 - [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://arxiv.org/abs/2305.17625). Kang Xu, Chenjia Bai, **Xiaoteng Ma**, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. 
 
