@@ -22,6 +22,6 @@
 
 [Department of Automation](https://www.au.tsinghua.edu.cn/) \
 [Tsinghua University](https://www.tsinghua.edu.cn/en/) \
-FIT Building 3-624 \
+FIT Building 1-109 \
 Beijing, China, 100084 \
-E-mail: ma-xt17[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn
+E-mail: pony[DOT]xtma[AT]gmail[DOT]com
