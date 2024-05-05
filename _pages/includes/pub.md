@@ -1,6 +1,8 @@
 # 📝 Publications 
 
 ## Conference Paper
+- [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou. *International Conference on Machine Learning* (**ICML**), 2024.
+
 - [Efficient Multi-agent Reinforcement Learning by Planning](https://openreview.net/forum?id=CpnKq3UJwp). Qihan Liu\*, Jianing Ye\*, **Xiaoteng Ma**\*, Jun Yang, Bin Liang, Chongjie Zhang. *International Conference on Learning Representations* (**ICLR**), 2024.
 
 - [SEABO: A Simple Search-Based Method for Offline Imitation Learning](https://openreview.net/forum?id=MNyOI3C7YB). Jiafei Lyu, **Xiaoteng Ma**, Le Wan, Runze Liu, Xiu Li, Zongqing Lu. *International Conference on Learning Representations* (**ICLR**), 2024.
@@ -59,4 +61,3 @@ Processing Systems* (**NeurIPS**), 2021. <span style="color:red">(Spotlight)</sp
 
 - [Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2209.06620). **Xiaoteng Ma**\*, Zhipeng Liang\*, Jose Blanchet, Mingwen Liu, Li Xia, Jiheng Zhang, Qianchuan Zhao, Zhengyuan Zhou.
 
-- [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou.
