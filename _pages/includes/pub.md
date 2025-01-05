@@ -1,6 +1,8 @@
 # 📝 Publications 
 
 ## Conference Paper
+- [NeuralPlane: An Efficiently Parallelizable Platform for Fixed-wing Aircraft Control with Reinforcement Learning](https://openreview.net/forum?id=LXgbgMOygH). Chuanyi Xue\*, Qihan Liu\*, **Xiaoteng Ma**\*, Xinyao Qin, Ning Gui, Yang Qi, Jinsheng Ren, Bin Liang, Jun Yang. *Advances in Neural Information Processing Systems Datasets and Benchmarks Track* (**NeurIPS**), 2024.
+
 - [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou. *International Conference on Machine Learning* (**ICML**), 2024.
 
 - [Efficient Multi-agent Reinforcement Learning by Planning](https://openreview.net/forum?id=CpnKq3UJwp). Qihan Liu\*, Jianing Ye\*, **Xiaoteng Ma**\*, Jun Yang, Bin Liang, Chongjie Zhang. *International Conference on Learning Representations* (**ICLR**), 2024.
@@ -12,6 +14,7 @@
 - [Cross-Domain Policy Adaptation via Value-Guided Data Filtering](https://arxiv.org/abs/2305.17625). Kang Xu, Chenjia Bai, **Xiaoteng Ma**, Dong Wang, Bin Zhao, Zhen Wang, Xuelong Li, Wei Li. *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023. 
 
 - [Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning](https://arxiv.org/abs/2304.04660). Junjie Zhang\*, Jiafei Lyu\*, **Xiaoteng Ma**, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence* (**ECAI**), 2023.
+
 - [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) Rui Yang, Yong Lin, **Xiaoteng Ma**, Hao Hu, Chongjie Zhang, Tong Zhang. *International Conference on Machine Learning* (**ICML**), 2023.
 
 - [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2206.04745). Jiafei Lyu\*, **Xiaoteng Ma**\*, Xiu Li, Zongqing Lu. *Advances in Neural Information
