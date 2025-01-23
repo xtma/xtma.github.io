@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 ## Conference Paper
-- [Episodic Novelty Through Temporal Distance](https://openreview.net/forum?id=I7DeajDEx7). Yuhua Jiang\*, Qihan Liu\*, Yiqin Yang, **Xiaoteng Ma**, Dianyu Zhong, Hao Hu, Jun Yang, Bin Liang, Bo XU, Chongjie Zhang, Qianchuan Zhao. *International Conference on Learning Representations* (**ICLR**), 2025.
+- [Episodic Novelty Through Temporal Distance](https://openreview.net/forum?id=I7DeajDEx7). Yuhua Jiang\*, Qihan Liu\*, Yiqin Yang, **Xiaoteng Ma**, Dianyu Zhong, Hao Hu, Jun Yang, Bin Liang, Bo Xu, Chongjie Zhang, Qianchuan Zhao. *International Conference on Learning Representations* (**ICLR**), 2025.
 
 - [Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint](https://openreview.net/forum?id=LRrbD8EZJl). Jiafei Lyu, Mengbei Yan, Zhongjian Qiao, Runze Liu, **Xiaoteng Ma**, Deheng Ye, Jing-Wen Yang, Zongqing Lu, Xiu Li. *International Conference on Learning Representations* (**ICLR**), 2025.
 
