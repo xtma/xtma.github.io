@@ -1,6 +1,10 @@
 # 📝 Publications 
 
 ## Conference Paper
+- [Episodic Novelty Through Temporal Distance](https://openreview.net/forum?id=I7DeajDEx7). Yuhua Jiang\*, Qihan Liu\*, Yiqin Yang, **Xiaoteng Ma**, Dianyu Zhong, Hao Hu, Jun Yang, Bin Liang, Bo XU, Chongjie Zhang, Qianchuan Zhao. *International Conference on Learning Representations* (**ICLR**), 2025.
+
+- [Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint](https://openreview.net/forum?id=LRrbD8EZJl). Jiafei Lyu, Mengbei Yan, Zhongjian Qiao, Runze Liu, **Xiaoteng Ma**, Deheng Ye, Jing-Wen Yang, Zongqing Lu, Xiu Li. *International Conference on Learning Representations* (**ICLR**), 2025.
+
 - [NeuralPlane: An Efficiently Parallelizable Platform for Fixed-wing Aircraft Control with Reinforcement Learning](https://openreview.net/forum?id=LXgbgMOygH). Chuanyi Xue\*, Qihan Liu\*, **Xiaoteng Ma**\*, Xinyao Qin, Ning Gui, Yang Qi, Jinsheng Ren, Bin Liang, Jun Yang. *Advances in Neural Information Processing Systems Datasets and Benchmarks Track* (**NeurIPS**), 2024.
 
 - [Single-Trajectory Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2301.11721). Zhipeng Liang\*, **Xiaoteng Ma**\*, Jose Blanchet, Jiheng Zhang, Zhengyuan Zhou. *International Conference on Machine Learning* (**ICML**), 2024.
