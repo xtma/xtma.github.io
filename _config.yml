@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoteng Ma (马骁腾)"
-description              : "PostDoc at Tsinghua University. Focusing on Reinforcement Learning. "
+description              : "CRO at Macaron AI. Leading Mind Lab focused on Experiential Intelligence. "
 repository               : "xtma/xtma.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoteng Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tsinghua University"
+  bio              : "Macaron AI"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
