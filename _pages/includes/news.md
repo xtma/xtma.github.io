@@ -1,8 +1,10 @@
 # 📰 News
 
-- **December 2025**: We launch Mind Lab 🎉, a research lab focused on **Experiential Intelligence** — building AI systems that improve from real-world experience rather than just optimizing fixed benchmarks, moving from static "brains" to adaptive "minds". Learn more: [Introducing Mind Lab: Building AI that Learns from Real Experience](https://macaron.im/mindlab/research/building-ai-that-learns-from-real-experience)
+- **September 2026**: We release Macaron-V1.1, a 752B-parameter agent model post-trained from GLM-5.3, together with Mint Recursive for faster experience-driven training and evaluation. Learn more: [Introducing Macaron-V1.1 and Mint Recursive](https://mindlab.im/updates/introducing-macaron-v1-1-and-mint-recursive)
 
-- **December 2025**: We present the first end-to-end LoRA-RL on trillion-parameter reasoning models, achieving 10% GPU cost compared to full-parameter RL while maintaining performance. Learn more: [How We Build Trillion Parameter Reasoning RL with 10% GPUs](https://macaron.im/mindlab/research/building-trillion-parameter-reasoning-rl-with-10-gpus)
+- **August 2026**: Our paper [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) is out — a lightweight memory mechanism that augments a frozen backbone with a compact online associative state, improving memory-heavy benchmarks while preserving general capabilities.
 
-- **December 2025**: We explore how agentic memory systems can go beyond simple retrieval, enabling agents to maintain and update their understanding of the world through experience. Learn more: [Exploring Agentic Memory beyond Reasoning and Tool-Use](https://macaron.im/mindlab/research/exploring-agentic-memory-beyond-reasoning-and-tool-use)
+- **July 2026**: We introduce Macaron-V1, our open agent-model family for experiential intelligence, available in 748B Venti and 35B Tall variants and built on Mixture-of-LoRA and model-harness co-design. Learn more: [Introducing Macaron-V1](https://mindlab.im/updates/introducing-macaron-v1)
+
+- **December 2025**: We launch Mind Lab 🎉, a research lab focused on **Experiential Intelligence** — building AI systems that improve from real-world experience rather than just optimizing fixed benchmarks, moving from static "brains" to adaptive "minds". Learn more: [Introducing Mind Lab: Building AI that Learns from Real Experience](https://mindlab.im/updates/building-ai-that-learns-from-real-experience)
 
