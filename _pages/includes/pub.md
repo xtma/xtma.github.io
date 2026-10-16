@@ -1,15 +1,15 @@
 # 📝 Publications 
 
-## Mind Lab Preprints
-- [Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://arxiv.org/abs/2608.09819). Mind Lab Team (incl. **Xiaoteng Ma**). *arXiv preprint arXiv:2608.09819*, 2026.
+## Mind Lab
+- [Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://arxiv.org/abs/2608.09819). Mind Lab Team (incl. **Pony**). *arXiv preprint arXiv:2608.09819*, 2026.
 
-- [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952). Changhai Zhou, Kieran Liu, Yuhua Zhou, Qian Qiao, Jun Gao, Harry Zhang, Irvine Lu, Nolan Ho, Lucian Li, Andrew Lei, Cleon Cheng, Steven Chiang, Yihang Zeng, Di Zhang, Rio Yang, Kaijie Chen, Andrew Chen, **Pony Ma**, Weizhong Zhang, Cheng Jin. *arXiv preprint arXiv:2607.14952*, 2026.
+- [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952). Changhai Zhou, Kieran Liu, Yuhua Zhou, Qian Qiao, Jun Gao, Harry Zhang, Irvine Lu, Nolan Ho, Lucian Li, Andrew Lei, Cleon Cheng, Steven Chiang, Yihang Zeng, Di Zhang, Rio Yang, Kaijie Chen, Andrew Chen, **Pony**, Weizhong Zhang, Cheng Jin. *arXiv preprint arXiv:2607.14952*, 2026.
 
-- [On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters](https://arxiv.org/abs/2606.02437). Mind Lab Team (incl. **Xiaoteng Ma**). *arXiv preprint arXiv:2606.02437*, 2026.
+- [On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters](https://arxiv.org/abs/2606.02437). Mind Lab Team (incl. **Pony**). *arXiv preprint arXiv:2606.02437*, 2026.
 
-- [Macaron-A2UI: A Model for Generative UI in Personal Agents](https://arxiv.org/abs/2605.24830). Fancy Kong, Congjie Zheng, Murphy Zhuang, Rio Yang, Sueky Zhang, Hao Fu, Gene Jin, Song Cao, Kaijie Chen, Andrew Chen, **Pony Ma**. *arXiv preprint arXiv:2605.24830*, 2026.
+- [Macaron-A2UI: A Model for Generative UI in Personal Agents](https://arxiv.org/abs/2605.24830). Fancy Kong, Congjie Zheng, Murphy Zhuang, Rio Yang, Sueky Zhang, Hao Fu, Gene Jin, Song Cao, Kaijie Chen, Andrew Chen, **Pony**. *arXiv preprint arXiv:2605.24830*, 2026.
 
-- [MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779). Mind Lab Team (incl. **Xiaoteng Ma**). *arXiv preprint arXiv:2605.13779*, 2026.
+- [MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779). Mind Lab Team (incl. **Pony**). *arXiv preprint arXiv:2605.13779*, 2026.
 
 - [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357). Jingdi Lei, Di Zhang, Junxian Li, Weida Wang, Kaixuan Fan, Xiang Liu, Qihan Liu, **Xiaoteng Ma**, Baian Chen, Soujanya Poria. *arXiv preprint arXiv:2605.12357*, 2026.
 
